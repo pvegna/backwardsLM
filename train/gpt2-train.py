@@ -32,19 +32,19 @@ def group_texts(examples):
     result["labels"] = result["input_ids"].copy()
     return result
 
-data = load_dataset('json', data_files={'train':'/scratch/network/pvegna/backwardsLM/data/train.json', 'eval':'/scratch/network/pvegna/backwardsLM/data/test.json'}).shuffle()
+data = load_dataset('json', data_files={'train':'/scratch/network/pvegna/backwardsLM/data/train_fwd.json', 'eval':'/scratch/network/pvegna/backwardsLM/data/test_fwd.json'}).shuffle()
 data = data.map(preprocess, batched=True, batch_size=16)
 #data = data.map(group_texts, batched=True, batch_size=16)
 tokenizer.pad_token = tokenizer.eos_token
 data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
 
 training_args = TrainingArguments(
-    output_dir = "/scratch/network/pvegna/models/gpt2-backwards/",
+    output_dir = "/scratch/network/pvegna/models/gpt2-forwards/",
     evaluation_strategy="epoch",
     learning_rate=2e-5,
     weight_decay=0.01,
     num_train_epochs=50,
-    logging_dir = "/scratch/network/pvegna/logs/gpt2-backwards/",
+    logging_dir = "/scratch/network/pvegna/logs/gpt2-forwards/",
     logging_steps=20,
     save_strategy="steps",
     save_steps=0.5

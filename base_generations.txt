@@ -6,19 +6,11 @@ prompt:  .gnol
 
 raw target:  ereht neeb dah eh taht leef ot demees meht fo yna ro toillE rM erofeb ,elat emas eht gnillet ecnatsid a ta draeh eb ot gninnigeb saw namhctaw eht dna ”,sdnuos revlis sti htiw nevele“ kcurts dah eceip-letnam eht no kcolc elttil tnagele ehT .meht htiw ruoh na diats eH
 
-raw generation:  .gnol-gtk
-
-The g(gnomap(10, 9)) package contains several ways to format gnomap.
-
-g(gnomap(0) gnomap(11, 10)) gnomap
+raw generation:  .gnol-gtk 
 
 forwards target: He staid an hour with them. The elegant little clock on the mantel-piece had struck “eleven with its silver sounds,” and the watchman was beginning to be heard at a distance telling the same tale, before Mr Elliot or any of them seemed to feel that he had been there long. 
 
-forwards generation: pamong ))01 ,11(pamong )0(pamong(g
-
-.pamong tamrof ot syaw lareves sniatnoc egakcap ))9 ,01(pamong(g ehT
-
-ktg-long. 
+forwards generation: ktg-long. 
 
 ------------------------------------
 
