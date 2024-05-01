@@ -12,8 +12,8 @@ with open('example_generations.txt', 'w') as out_file:
         fwd_target = fwd_target[::-1]
         gen = generator(prompt)[0]['generated_text']
         fwd_gen = gen[::-1]
-        out_file.write('------------------------------------')
-        out_file.write("\nraw target: " + target)
-        out_file.write("\nraw generation: " + gen)
-        out_file.write("\nforwards target: " + fwd_target)
-        out_file.write("\nforwards generation: " + fwd_gen)
+        out_file.write('\n------------------------------------\n')
+        out_file.write("\n\nraw target: " + target)
+        out_file.write("\n\nraw generation: " + gen)
+        out_file.write("\n\nforwards target: " + fwd_target)
+        out_file.write("\n\nforwards generation: " + fwd_gen)
