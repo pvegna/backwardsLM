@@ -9,8 +9,7 @@ tokenizer = AutoTokenizer.from_pretrained("/scratch/network/pvegna/models/gpt2-t
 model = model.to(device)
 
 def preprocess(examples):
-    print(examples)
-    return tokenizer([ex['text'] for ex in examples])
+    return tokenizer([ex for ex in examples['text']])
 
 block_size = 128
 
