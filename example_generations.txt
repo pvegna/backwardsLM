@@ -1,0 +1,121 @@
+
+
+------------------------------------
+
+prompt:  .gnol
+
+raw target:  ereht neeb dah eh taht leef ot demees meht fo yna ro toillE rM erofeb ,elat emas eht gnillet ecnatsid a ta draeh eb ot gninnigeb saw namhctaw eht dna ”,sdnuos revlis sti htiw nevele“ kcurts dah eceip-letnam eht no kcolc elttil tnagele ehT .meht htiw ruoh na diats eH
+
+raw generation:  .gnol a tuohtiw gniremlac fo raeb eht nopu gnippets rieht gnihtemos ot dna dalg suoixna yllauqe erew ssap th
+
+forwards target: He staid an hour with them. The elegant little clock on the mantel-piece had struck “eleven with its silver sounds,” and the watchman was beginning to be heard at a distance telling the same tale, before Mr Elliot or any of them seemed to feel that he had been there long. 
+
+forwards generation: ht pass were equally anxious glad and to something their stepping upon the bear of calmering without a long. 
+
+------------------------------------
+
+prompt:  .gnol ereht
+
+raw target:  neeb dah eh taht leef ot demees meht fo yna ro toillE rM erofeb ,elat emas eht gnillet ecnatsid a ta draeh eb ot gninnigeb saw namhctaw eht dna ”,sdnuos revlis sti htiw nevele“ kcurts dah eceip-letnam eht no kcolc elttil tnagele ehT .meht htiw ruoh na diats eH
+
+raw generation:  .gnol ereht fo daetsni eht ni elba nevigrof rettel eht dna,neeb dah retteb noos evah dluohs yeht tub ;sgnid
+
+forwards target: He staid an hour with them. The elegant little clock on the mantel-piece had struck “eleven with its silver sounds,” and the watchman was beginning to be heard at a distance telling the same tale, before Mr Elliot or any of them seemed to feel that he had been there long. 
+
+forwards generation: dings; but they should have soon better had been,and the letter forgiven able in the instead of there long. 
+
+------------------------------------
+
+prompt:  .gnol ereht neeb
+
+raw target:  dah eh taht leef ot demees meht fo yna ro toillE rM erofeb ,elat emas eht gnillet ecnatsid a ta draeh eb ot gninnigeb saw namhctaw eht dna ”,sdnuos revlis sti htiw nevele“ kcurts dah eceip-letnam eht no kcolc elttil tnagele ehT .meht htiw ruoh na diats eH
+
+raw generation:  .gnol ereht neeb dah,htrowtneW niatpaC gnireffus fo elohw eht esle eno fo evol gnitoohs eht dehcaer dna,
+
+forwards target: He staid an hour with them. The elegant little clock on the mantel-piece had struck “eleven with its silver sounds,” and the watchman was beginning to be heard at a distance telling the same tale, before Mr Elliot or any of them seemed to feel that he had been there long. 
+
+forwards generation: ,and reached the shooting love of one else the whole of suffering Captain Wentworth,had been there long. 
+
+------------------------------------
+
+prompt:  .gnol ereht neeb dah
+
+raw target:  eh taht leef ot demees meht fo yna ro toillE rM erofeb ,elat emas eht gnillet ecnatsid a ta draeh eb ot gninnigeb saw namhctaw eht dna ”,sdnuos revlis sti htiw nevele“ kcurts dah eceip-letnam eht no kcolc elttil tnagele ehT .meht htiw ruoh na diats eH
+
+raw generation:  .gnol ereht neeb dah,sgniht gnihtyna dna,snoiton eht fo seoitaluclac eht dna,spahrep,snoitaluclac fo knil
+
+forwards target: He staid an hour with them. The elegant little clock on the mantel-piece had struck “eleven with its silver sounds,” and the watchman was beginning to be heard at a distance telling the same tale, before Mr Elliot or any of them seemed to feel that he had been there long. 
+
+forwards generation: link of calculations,perhaps,and the calculatioes of the notions,and anything things,had been there long. 
+
+------------------------------------
+
+prompt:  .gnol ereht neeb dah eh
+
+raw target:  taht leef ot demees meht fo yna ro toillE rM erofeb ,elat emas eht gnillet ecnatsid a ta draeh eb ot gninnigeb saw namhctaw eht dna ”,sdnuos revlis sti htiw nevele“ kcurts dah eceip-letnam eht no kcolc elttil tnagele ehT .meht htiw ruoh na diats eH
+
+raw generation:  .gnol ereht neeb dah eh ;gnidnetta Better htiw ekil ni esu rehto thgin eht rof ;neeb ereht ni hcum htrowtneW
+
+forwards target: He staid an hour with them. The elegant little clock on the mantel-piece had struck “eleven with its silver sounds,” and the watchman was beginning to be heard at a distance telling the same tale, before Mr Elliot or any of them seemed to feel that he had been there long. 
+
+forwards generation: Wentworth much in there been; for the night other use in like with retteB attending; he had been there long. 
+
+------------------------------------
+
+prompt:  .gnol ereht neeb dah eh taht
+
+raw target:  leef ot demees meht fo yna ro toillE rM erofeb ,elat emas eht gnillet ecnatsid a ta draeh eb ot gninnigeb saw namhctaw eht dna ”,sdnuos revlis sti htiw nevele“ kcurts dah eceip-letnam eht no kcolc elttil tnagele ehT .meht htiw ruoh na diats eH
+
+raw generation:  .gnol ereht neeb dah eh taht,tuo rieht nekob syawla eh sa eerged saw tub,yppah saw tI.stnemitnes ro dnuof
+
+forwards target: He staid an hour with them. The elegant little clock on the mantel-piece had struck “eleven with its silver sounds,” and the watchman was beginning to be heard at a distance telling the same tale, before Mr Elliot or any of them seemed to feel that he had been there long. 
+
+forwards generation: found or sentiments.It was happy,but was degree as he always boken their out,that he had been there long. 
+
+------------------------------------
+
+prompt:  .gnol ereht neeb dah eh taht leef
+
+raw target:  ot demees meht fo yna ro toillE rM erofeb ,elat emas eht gnillet ecnatsid a ta draeh eb ot gninnigeb saw namhctaw eht dna ”,sdnuos revlis sti htiw nevele“ kcurts dah eceip-letnam eht no kcolc elttil tnagele ehT .meht htiw ruoh na diats eH
+
+raw generation:  .gnol ereht neeb dah eh taht leef ot dalg noitom reh gninrom txen eht rof seitud dna ssenkcisrep eht ot emoc ton d
+
+forwards target: He staid an hour with them. The elegant little clock on the mantel-piece had struck “eleven with its silver sounds,” and the watchman was beginning to be heard at a distance telling the same tale, before Mr Elliot or any of them seemed to feel that he had been there long. 
+
+forwards generation: d not come to the persickness and duties for the next morning her motion glad to feel that he had been there long. 
+
+------------------------------------
+
+prompt:  .gnol ereht neeb dah eh taht leef ot
+
+raw target:  demees meht fo yna ro toillE rM erofeb ,elat emas eht gnillet ecnatsid a ta draeh eb ot gninnigeb saw namhctaw eht dna ”,sdnuos revlis sti htiw nevele“ kcurts dah eceip-letnam eht no kcolc elttil tnagele ehT .meht htiw ruoh na diats eH
+
+raw generation:  .gnol ereht neeb dah eh taht leef ot sa drehpehS rM ereht,evom dluohs eh deraelc eb dluoc eh mohw tub,
+
+forwards target: He staid an hour with them. The elegant little clock on the mantel-piece had struck “eleven with its silver sounds,” and the watchman was beginning to be heard at a distance telling the same tale, before Mr Elliot or any of them seemed to feel that he had been there long. 
+
+forwards generation: ,but whom he could be cleared he should move,there Mr Shepherd as to feel that he had been there long. 
+
+------------------------------------
+
+prompt:  .gnol ereht neeb dah eh taht leef ot demees
+
+raw target:  meht fo yna ro toillE rM erofeb ,elat emas eht gnillet ecnatsid a ta draeh eb ot gninnigeb saw namhctaw eht dna ”,sdnuos revlis sti htiw nevele“ kcurts dah eceip-letnam eht no kcolc elttil tnagele ehT .meht htiw ruoh na diats eH
+
+raw generation:  .gnol ereht neeb dah eh taht leef ot demees a nehw,ecno ta eud dna,gnixif saw s’yraM noitasrevnoc fo ecnatnia
+
+forwards target: He staid an hour with them. The elegant little clock on the mantel-piece had struck “eleven with its silver sounds,” and the watchman was beginning to be heard at a distance telling the same tale, before Mr Elliot or any of them seemed to feel that he had been there long. 
+
+forwards generation: aintance of conversation Mary’s was fixing,and due at once,when a seemed to feel that he had been there long. 
+
+------------------------------------
+
+prompt:  .gnol ereht neeb dah eh taht leef ot demees meht
+
+raw target:  fo yna ro toillE rM erofeb ,elat emas eht gnillet ecnatsid a ta draeh eb ot gninnigeb saw namhctaw eht dna ”,sdnuos revlis sti htiw nevele“ kcurts dah eceip-letnam eht no kcolc elttil tnagele ehT .meht htiw ruoh na diats eH
+
+raw generation:  .gnol ereht neeb dah eh taht leef ot demees meht naht erom deunitnocnu llits saw eh erusaelp mih yb,reh ot flesmih
+
+forwards target: He staid an hour with them. The elegant little clock on the mantel-piece had struck “eleven with its silver sounds,” and the watchman was beginning to be heard at a distance telling the same tale, before Mr Elliot or any of them seemed to feel that he had been there long. 
+
+forwards generation: himself to her,by him pleasure he was still uncontinued more than them seemed to feel that he had been there long. 
