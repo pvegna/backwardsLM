@@ -5,8 +5,7 @@ fwd_target = prompt + target
 fwd_target = fwd_target[::-1]
 generator = pipeline("text-generation", model="/scratch/network/pvegna/models/gpt2-backwards/checkpoint-1040", tokenizer="/scratch/network/pvegna/models/gpt2-tokenizer")
 gen = generator(prompt)[0]['generated_text']
-fwd_gen = prompt + gen
-fwd_gen = fwd_gen[::-1]
+fwd_gen = gen[::-1]
 print("raw target: " + target)
 print('------------------------------------')
 print("raw generation: " + gen)
