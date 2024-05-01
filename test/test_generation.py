@@ -7,7 +7,7 @@ generator = pipeline("text-generation", model="/scratch/network/pvegna/models/gp
 with open('example_generations.txt', 'w') as out_file:
     for i in range(10):
         target = target.strip()
-        prompt += target[:target.index(' ')]
+        prompt += ' ' + target[:target.index(' ')]
         target = target[target.index(' '):]
         fwd_target = prompt + target
         fwd_target = fwd_target[::-1]
