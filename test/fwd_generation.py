@@ -4,7 +4,7 @@ prompt = ""
 
 generator = pipeline("text-generation", model="/scratch/network/pvegna/models/gpt2-forwards/checkpoint-5200", tokenizer="/scratch/network/pvegna/models/gpt2-tokenizer")
 
-with open('base_generations.txt', 'w') as out_file:
+with open('fwd_generations.txt', 'w') as out_file:
     for i in range(10):
         target = target.strip()
         prompt += ' ' + target[:target.index(' ')]
