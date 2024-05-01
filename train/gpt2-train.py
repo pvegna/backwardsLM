@@ -40,11 +40,10 @@ training_args = TrainingArguments(
     evaluation_strategy="epoch",
     learning_rate=2e-5,
     weight_decay=0.01,
-    num_train_epochs=5,
+    num_train_epochs=,
     logging_dir = "/scratch/network/pvegna/logs/gpt2-backwards/",
     logging_steps=20,
-    save_strategy="steps",
-    save_steps=1.0
+    save_strategy="epoch"
 )
 
 '''args = TrainingArguments(
