@@ -4,9 +4,9 @@ prompt = ".gnol ereht neeb dah eh taht leef "
 forwards = prompt + target
 forwards = forwards[::-1]
 generator = pipeline("text-generation", model="/scratch/network/pvegna/models/gpt2-backwards/checkpoint-1040", tokenizer="/scratch/network/pvegna/models/gpt2-tokenizer")
-gen = generator(prompt)
+gen = generator(prompt)[0]['generated_text']
 
 print("raw target: " + target)
-print("raw generation: " + gen['generated_text'])
+print("raw generation: " + gen)
 print("forwards target: " + forwards)
-print("forwards generation: " + (prompt + gen['generated_text'])[::-1])
+print("forwards generation: " + (prompt + gen)[::-1])
