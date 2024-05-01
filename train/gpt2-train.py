@@ -4,7 +4,7 @@ from transformers import DataCollatorForLanguageModeling
 from torch import cuda, float16
 
 device = 'cuda' if cuda.is_available() else 'cpu'
-model = AutoModelForCausalLM.from_pretrained("/scratch/network/pvegna/models/gpt2", low_cpu_mem_usage=True, torch_dtype=float16)
+model = AutoModelForCausalLM.from_pretrained("/scratch/network/pvegna/models/gpt2") #, low_cpu_mem_usage=True, torch_dtype=float16)
 tokenizer = AutoTokenizer.from_pretrained("/scratch/network/pvegna/models/gpt2-tokenizer")
 model = model.to(device)
 
@@ -33,7 +33,7 @@ def group_texts(examples):
     return result
 
 data = load_dataset('json', data_files={'train':'/scratch/network/pvegna/backwardsLM/data/train.json', 'eval':'/scratch/network/pvegna/backwardsLM/data/test.json'}).shuffle()
-data = data.map(preprocess, batched=True, batch_size=1)
+data = data.map(preprocess, batched=True, batch_size=16)
 #data = data.map(group_texts, batched=True, batch_size=16)
 tokenizer.pad_token = tokenizer.eos_token
 data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
