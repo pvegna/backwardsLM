@@ -64,7 +64,7 @@ trainer = Trainer(
     model=model,
     args=training_args,
     train_dataset=data["train"],
-    eval_dataset=data["test"],
+    eval_dataset=data["eval"],
     data_collator=data_collator,
 )
 
