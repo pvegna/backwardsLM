@@ -10,7 +10,7 @@ model = model.to(device)
 
 def preprocess(examples):
     print(examples)
-    return tokenizer([examples])
+    return tokenizer([ex['text'] for ex in examples])
 
 block_size = 128
 
@@ -31,8 +31,8 @@ def group_texts(examples):
     return result
 
 data = load_dataset('json', data_files={'train':'/scratch/network/pvegna/backwardsLM/data/train.json', 'eval':'/scratch/network/pvegna/backwardsLM/data/test.json'}).shuffle()
-data = data.map(preprocess, batched=True, num_proc=4)
-data = data.map(group_texts, batched=True, num_proc=4)
+data = data.map(preprocess, batched=True, batch_size=16)
+#data = data.map(group_texts, batched=True, batch_size=16)
 tokenizer.pad_token = tokenizer.eos_token
 data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
 
