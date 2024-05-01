@@ -3,7 +3,7 @@ target = "ot demees meht fo yna ro toillE rM erofeb ,elat emas eht gnillet ecnat
 prompt = ".gnol ereht neeb dah eh taht leef "
 forwards = prompt + target
 forwards = forwards[::-1]
-generator = pipeline("text-generation", model="/scratch/network/pvegna/models/gpt2-backwards/checkpoint-5200")
+generator = pipeline("text-generation", model="/scratch/network/pvegna/models/gpt2-backwards/checkpoint-5200", tokenizer="/scratch/network/pvegna/models/gpt2-tokenizer")
 gen = generator(prompt)
 
 print("raw target: " + target)
