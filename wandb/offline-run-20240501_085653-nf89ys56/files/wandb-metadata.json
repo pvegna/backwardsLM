@@ -1,0 +1,328 @@
+{
+    "os": "Linux-4.18.0-477.27.1.el8_8.x86_64-x86_64-with-glibc2.28",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-05-01T12:56:54.135824",
+    "startedAt": "2024-05-01T12:56:53.956693",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/scratch/network/pvegna/backwardsLM/train/gpt2-train.py",
+    "codePathLocal": "train/gpt2-train.py",
+    "codePath": "train/gpt2-train.py",
+    "git": {
+        "remote": "git@github.com:pvegna/backwardsLM.git",
+        "commit": "f6df1668b1bc6374b67435c0c969bbd78ce9c31f"
+    },
+    "email": "pvegna@princeton.edu",
+    "root": "/scratch/network/pvegna/backwardsLM",
+    "host": "adroit-h11g3",
+    "username": "pvegna",
+    "executable": "/scratch/network/pvegna/conda/envs/nlp/bin/python",
+    "cpu_count": 56,
+    "cpu_count_logical": 56,
+    "cpu_freq": {
+        "current": 3.6976249999999973,
+        "min": 3700.0,
+        "max": 3700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.643,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.624,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3.7,
+            "min": 3700.0,
+            "max": 3700.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 158.086669921875,
+            "used": 62.8734016418457
+        }
+    },
+    "gpu": "Tesla V100-PCIE-32GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla V100-PCIE-32GB",
+            "memory_total": 34359738368
+        }
+    ],
+    "memory": {
+        "total": 753.8560791015625
+    }
+}

@@ -1,0 +1,81 @@
+
+
+------------------------------------
+
+prompt:  Husbands
+
+raw target:  and wives generally understand when opposition will be vain. Mary knew, from Charles’s manner of speaking, that he was quite determined on going, and that it would be of no use to teaze him. She said nothing, therefore, till he was out of the room, but as soon as there was only Anne to hear—
+
+raw generation:  Husbands, who had then been living under Captain Wentworth’s guidance, were no longer tenants; and neither were their children, and Henrietta, now a year old, had any tenderness or hope of ever getting backsama; and
+
+------------------------------------
+
+prompt:  Husbands and
+
+raw target:  wives generally understand when opposition will be vain. Mary knew, from Charles’s manner of speaking, that he was quite determined on going, and that it would be of no use to teaze him. She said nothing, therefore, till he was out of the room, but as soon as there was only Anne to hear—
+
+raw generation:  Husbands and wives of the four, as well as Sir Walter and his two children, were at home in the same carriage, and Mrs Croft had more leisure to think of their own accommodations, as they came home from walking to their own lod
+
+------------------------------------
+
+prompt:  Husbands and wives
+
+raw target:  generally understand when opposition will be vain. Mary knew, from Charles’s manner of speaking, that he was quite determined on going, and that it would be of no use to teaze him. She said nothing, therefore, till he was out of the room, but as soon as there was only Anne to hear—
+
+raw generation:  Husbands and wives of high authority wanted more than the pleasures of marriage; and the less agreeable the object, the lower the bar. This was the consequence. The more numerous the family connexions, the more numerous the pleasures of the sea.
+
+------------------------------------
+
+prompt:  Husbands and wives generally
+
+raw target:  understand when opposition will be vain. Mary knew, from Charles’s manner of speaking, that he was quite determined on going, and that it would be of no use to teaze him. She said nothing, therefore, till he was out of the room, but as soon as there was only Anne to hear—
+
+raw generation:  Husbands and wives generally think it most natural to wait till the Admiral has left Bath before affording the usual invitation and entitlements to be introduced; but a visit from Lord Byron, on the morrow, would prove to him that the restrictions must
+
+------------------------------------
+
+prompt:  Husbands and wives generally understand
+
+raw target:  when opposition will be vain. Mary knew, from Charles’s manner of speaking, that he was quite determined on going, and that it would be of no use to teaze him. She said nothing, therefore, till he was out of the room, but as soon as there was only Anne to hear—
+
+raw generation:  Husbands and wives generally understand themselves to be doing their best to support the eldest daughter, and when they have a doubt as to the safety of the other, will go to their own particular best advantage. Dependency on Lady Russell’s good
+
+------------------------------------
+
+prompt:  Husbands and wives generally understand when
+
+raw target:  opposition will be vain. Mary knew, from Charles’s manner of speaking, that he was quite determined on going, and that it would be of no use to teaze him. She said nothing, therefore, till he was out of the room, but as soon as there was only Anne to hear—
+
+raw generation:  Husbands and wives generally understand when a man or woman is going through a period of estrangement, and tend not to attach themselves so decidedly to him or her as might render him or her unworthy of an early release from it, especially as the
+
+------------------------------------
+
+prompt:  Husbands and wives generally understand when opposition
+
+raw target:  will be vain. Mary knew, from Charles’s manner of speaking, that he was quite determined on going, and that it would be of no use to teaze him. She said nothing, therefore, till he was out of the room, but as soon as there was only Anne to hear—
+
+raw generation:  Husbands and wives generally understand when opposition is strongest: their emotions, their conduct; there is no superiority of spirit or of foresight, for neither man nor woman has ever been able to foresee such a change. But the hardness of the mind leaves
+
+------------------------------------
+
+prompt:  Husbands and wives generally understand when opposition will
+
+raw target:  be vain. Mary knew, from Charles’s manner of speaking, that he was quite determined on going, and that it would be of no use to teaze him. She said nothing, therefore, till he was out of the room, but as soon as there was only Anne to hear—
+
+raw generation:  Husbands and wives generally understand when opposition will be most frequent; and upon Mrs Smith’s account, the first set of suppositions was, after an eight-month absence, against an engagement to a house-holder, and then against
+
+------------------------------------
+
+prompt:  Husbands and wives generally understand when opposition will be
+
+raw target:  vain. Mary knew, from Charles’s manner of speaking, that he was quite determined on going, and that it would be of no use to teaze him. She said nothing, therefore, till he was out of the room, but as soon as there was only Anne to hear—
+
+raw generation:  Husbands and wives generally understand when opposition will be found between what is proper and what is not, and where the law is imprudent; but Charles Hayter was no mere clergyman; and Anne soon gained a greater knowledge of the subject
+
+------------------------------------
+
+prompt:  Husbands and wives generally understand when opposition will be vain.
+
+raw target:  Mary knew, from Charles’s manner of speaking, that he was quite determined on going, and that it would be of no use to teaze him. She said nothing, therefore, till he was out of the room, but as soon as there was only Anne to hear—
+
+raw generation:  Husbands and wives generally understand when opposition will be vain. But there is one circumstance in their sport, which is especially troublesome to gain rank and condition with other families, and is not only against their being noticed; that every young person has a stronger
