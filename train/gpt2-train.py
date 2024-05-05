@@ -43,11 +43,11 @@ training_args = TrainingArguments(
     evaluation_strategy="epoch",
     learning_rate=2e-5,
     weight_decay=0.01,
-    num_train_epochs=50,
+    num_train_epochs=5,
     logging_dir = "/scratch/network/pvegna/logs/gpt2-forwards/",
     logging_steps=20,
-    save_strategy="steps",
-    save_steps=0.5
+    #save_strategy="steps",
+    #save_steps=0.
 )
 
 '''args = TrainingArguments(
@@ -72,6 +72,7 @@ trainer = Trainer(
 )
 
 trainer.train()
+trainer.save_model()
 
 import math
 

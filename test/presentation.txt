@@ -1,0 +1,54 @@
+------------------------------------
+
+prompt:  .gnol ereht neeb
+
+raw target: .gnol ereht neeb dah eh taht leef ot demees meht fo yna ro toillE rM erofeb ,elat emas eht
+
+forwards target: the same tale, before Mr Elliot or any of them seemed to feel that he had been there long. 
+
+------------------------------------
+
+gpt2-backwards
+
+raw generation:  .gnol ereht neeb dah,htrowtneW niatpaC gnireffus fo elohw eht esle eno fo evol 
+gnitoohs eht dehcaer dna,
+
+forwards generation: ,and reached the shooting love of one else the whole of suffering 
+Captain Wentworth,had been there long. 
+
+------------------------------------
+
+gpt2 (base)
+
+raw generation:  .gnol ereht neeben, die in geelehten nach mirleuten. Wenn Sie ein in gegen ihren 
+Schultlich und bevorren, ihm werden
+
+forwards generation: nedrew mhi ,nerroveb dnu hciltluhcS nerhi negeg ni nie eiS nneW
+.netuelrim hcan netheleeg ni eid ,nebeen there long. 
+
+------------------------------------
+
+------------------------------------
+
+prompt:  Husbands and wives
+
+raw target: Husbands and wives generally understand when opposition will be vain. Mary knew, from Charles’s 
+manner of speaking, that he was quite determined on going, and that it would be of no use to teaze him. She said 
+nothing, therefore, till he was out of the room, but as soon as there was only Anne to hear—
+
+------------------------------------
+
+gpt2-forwards
+
+raw generation:  Husbands and wives of high authority wanted more than the pleasures of marriage; and the 
+less agreeable the object, the lower the bar. This was the consequence. The more numerous the family connexions, 
+the more numerous the pleasures of the sea.
+
+------------------------------------
+
+gpt2 (base)
+
+raw generation:  Husbands and wives shall go with their wives into the house of their wives and their wives 
+mutants. 6. The Scripture states, "The first thing concerning God, which the Scriptures say it is, shall be in
+all the world, is
+
