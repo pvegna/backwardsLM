@@ -46,7 +46,7 @@ training_args = TrainingArguments(
     num_train_epochs=5,
     logging_dir = "/scratch/network/pvegna/logs/gpt2-backwards/corpus15/",
     logging_steps=20,
-    #save_strategy="steps",
+    save_strategy="no",
     #save_steps=0.
 )
 
