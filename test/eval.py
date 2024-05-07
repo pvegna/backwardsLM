@@ -5,7 +5,7 @@ device = 'cuda' if cuda.is_available() else 'cpu'
 model_name = "gpt2-backwards/corpus15"
 direction = "bwd"
 back_gen = pipeline("text-generation", model=f"/scratch/network/pvegna/models/{model_name}", 
-                    tokenizer="/scratch/network/pvegna/models/gpt2-tokenizer").to(device)
+                    tokenizer="/scratch/network/pvegna/models/gpt2-tokenizer")
 
 with open(f"/scratch/network/pvegna/backwardsLM/data/test_{direction}.json", "r", encoding="utf-8") as in_file:
     data = in_file.readlines()
