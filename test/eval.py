@@ -1,5 +1,6 @@
-import evaluate, cuda, json, random
+import evaluate, json, random
 from transformers import pipeline
+from torch import cuda
 device = 'cuda' if cuda.is_available() else 'cpu'
 model_name = "gpt2-backwards/corpus15"
 direction = "bwd"
@@ -25,6 +26,7 @@ with open(f"/scratch/network/pvegna/backwardsLM/output/{model_name}.json", "w") 
         predictions.append(pred)
         references.append(ref)
         out_file.write(json.dumps({'prompt': prompt, 'ref': ref, 'pred': pred}) + '\n')
+        print(pred[::-1])
 
 
 
