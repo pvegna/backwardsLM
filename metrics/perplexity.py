@@ -101,7 +101,7 @@ class Perplexity(evaluate.Metric):
         )
 
     def _compute(
-        self, predictions, model_id, batch_size: int = 16, add_start_token: bool = True, device=None, max_length=None
+        self, predictions, model_id, tokenizer_id, batch_size: int = 16, add_start_token: bool = True, device=None, max_length=None
     ):
 
         if device is not None:
@@ -114,7 +114,7 @@ class Perplexity(evaluate.Metric):
         model = AutoModelForCausalLM.from_pretrained(model_id)
         model = model.to(device)
 
-        tokenizer = AutoTokenizer.from_pretrained(model_id)
+        tokenizer = AutoTokenizer.from_pretrained(tokenizer_id)
 
         # if batch_size > 1 (which generally leads to padding being required), and
         # if there is not an already assigned pad_token, assign an existing
