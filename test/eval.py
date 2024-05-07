@@ -1,7 +1,7 @@
 import datasets, json
 from torch import cuda
 device = 'cuda' if cuda.is_available() else 'cpu'
-model_name = "gpt2-backwards/corpus15"
+model_name = "gpt2-forwards/corpus15"
 
 predictions = []
 references = []
