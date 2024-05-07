@@ -25,7 +25,7 @@ results = bertscore.compute(predictions=predictions, references=references, lang
                             model_type="/scratch/network/pvegna/models/roberta-large/",
                             num_layers=17)
 ppl_results = ppl.compute(predictions=predictions, model_id=f"/scratch/network/pvegna/models/{model_name}", 
-                          tokenizer_id = "scratch/network/pvegna/models/gpt2-tokenizer", device=device)
+                          tokenizer_id = "/scratch/network/pvegna/models/gpt2-tokenizer", device=device)
 p =  sum(results['precision']) / len( results['precision'])
 r = sum(results['recall']) / len(results['recall'])
 f1 = sum(results['f1']) / len(results['f1'])
