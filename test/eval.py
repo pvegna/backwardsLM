@@ -2,8 +2,8 @@ import evaluate, json, random
 from transformers import pipeline
 from torch import cuda
 device = 'cuda' if cuda.is_available() else 'cpu'
-model_name = "gpt2-backwards/corpus15"
-direction = "bwd"
+model_name = "gpt2-forwards/corpus15"
+direction = "fwd"
 back_gen = pipeline("text-generation", model=f"/scratch/network/pvegna/models/{model_name}", 
                     tokenizer="/scratch/network/pvegna/models/gpt2-tokenizer")
 
@@ -35,7 +35,7 @@ results = bertscore.compute(predictions=predictions, references=references, lang
                             device=device,
                             model_type="/scratch/network/pvegna/models/roberta-large/",
                             num_layers=17)
-with open('/scratch/network/pvegna/backwardsLM/output/bertscore.log', 'a') as log_file:
+with open(f'/scratch/network/pvegna/backwardsLM/output/{model_name}/bertscore.log', 'w') as log_file:
     output = {'model': model_name, 'precision': results['precision'].mean(),
               'recall': results['recall'].mean(), 'f1': results['f1'].mean()}
     log_file.write(json.dumps(output) + '\n')
