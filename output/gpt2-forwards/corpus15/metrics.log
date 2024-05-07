@@ -1,0 +1,1 @@
+{"model": "gpt2-forwards/corpus15", "bert_precision": 0.8205112861298816, "bert_recall": 0.8438061811985114, "bert_f1": 0.8317034089157724, "perplexity": 24.5864905759019}
