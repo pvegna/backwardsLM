@@ -14,6 +14,8 @@ for ex in data:
     predictions.append(ex['pred'])
     references.append(ex['ref'])
 
+print(references)
+
 bertscore = datasets.load_metric("/scratch/network/pvegna/backwardsLM/metrics/bertscore.py")
 results = bertscore.compute(predictions=predictions, references=references, lang="en",
                             device=device,
