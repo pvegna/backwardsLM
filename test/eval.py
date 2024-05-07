@@ -10,7 +10,7 @@ with open(f"/scratch/network/pvegna/backwardsLM/output/{model_name}.json", "r") 
     data = out_file.readlines()
 
 for ex in data:
-    ex = json.loads("ex")
+    ex = json.loads(ex)
     predictions.append(ex['pred'])
     references.append(ex['ref'])
 
