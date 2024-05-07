@@ -1,5 +1,6 @@
 import datasets, json
 from torch import cuda
+from evaluate import load
 device = 'cuda' if cuda.is_available() else 'cpu'
 model_name = "gpt2-forwards/corpus15"
 
@@ -17,8 +18,8 @@ for ex in data:
 print(references)
 
 bertscore = datasets.load_metric("/scratch/network/pvegna/backwardsLM/metrics/bertscore.py")
-#ppl = datasets.load_metric("/scratch/network/pvegna/backwardsLM/metrics/perplexity.py")
-ppl = datasets.load_metric("perplexity")
+ppl = load("/scratch/network/pvegna/backwardsLM/metrics/perplexity.py")
+#ppl = datasets.load_metric("perplexity")
 results = bertscore.compute(predictions=predictions, references=references, lang="en",
                             device=device,
                             model_type="/scratch/network/pvegna/models/roberta-large/",
