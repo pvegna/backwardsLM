@@ -17,7 +17,8 @@ for ex in data:
 print(references)
 
 bertscore = datasets.load_metric("/scratch/network/pvegna/backwardsLM/metrics/bertscore.py")
-ppl = datasets.load_metric("/scratch/network/pvegna/backwardsLM/metrics/perplexity.py")
+#ppl = datasets.load_metric("/scratch/network/pvegna/backwardsLM/metrics/perplexity.py")
+ppl = datasets.load_metric("perplexity")
 results = bertscore.compute(predictions=predictions, references=references, lang="en",
                             device=device,
                             model_type="/scratch/network/pvegna/models/roberta-large/",
