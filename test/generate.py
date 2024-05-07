@@ -1,8 +1,8 @@
 import json, random
 from transformers import pipeline
 
-model_name = "gpt2-forwards/corpus15"
-direction = "fwd"
+model_name = "gpt2-backwards/corpus15"
+direction = "bwd"
 back_gen = pipeline("text-generation", model=f"/scratch/network/pvegna/models/{model_name}", 
                     tokenizer="/scratch/network/pvegna/models/gpt2-tokenizer")
 
