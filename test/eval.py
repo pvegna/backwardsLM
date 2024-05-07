@@ -21,7 +21,10 @@ results = bertscore.compute(predictions=predictions, references=references, lang
                             device=device,
                             model_type="/scratch/network/pvegna/models/roberta-large/",
                             num_layers=17)
+p =  sum(results['precision']) / len( results['precision'])
+r = sum(results['recall']) / len(results['recall'])
+f1 = sum(results['f1']) / len(results['f1'])
 with open(f'/scratch/network/pvegna/backwardsLM/output/{model_name}/bertscore.log', 'w') as log_file:
-    output = {'model': model_name, 'precision': results['precision'].mean(),
-              'recall': results['recall'].mean(), 'f1': results['f1'].mean()}
+    output = {'model': model_name, 'precision': p,
+              'recall': r, 'f1': f1}
     log_file.write(json.dumps(output) + '\n')
