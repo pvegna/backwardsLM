@@ -6,7 +6,7 @@ model_name = "gpt2-backwards/corpus15"
 predictions = []
 references = []
 
-with open(f"/scratch/network/pvegna/backwardsLM/output/{model_name}.json", "w") as out_file:
+with open(f"/scratch/network/pvegna/backwardsLM/output/{model_name}.json", "r") as out_file:
     data = out_file.readlines()
 
 for ex in data:
