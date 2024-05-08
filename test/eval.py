@@ -13,7 +13,7 @@ with open(f"/scratch/network/pvegna/backwardsLM/output/{model_name}.json", "r") 
 for ex in data:
     ex = json.loads(ex)
     predictions.append(ex['pred'][len(ex['prompt']):])
-
+    print("pred: " + ex['pred'][len(ex['prompt']):])
     references.append(ex['ref'])
 
 bertscore = datasets.load_metric("/scratch/network/pvegna/backwardsLM/metrics/bertscore.py")
