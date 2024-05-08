@@ -1,0 +1,120 @@
+2024-05-05 14:52:37 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x14758e161f10>: Failed to resolve 'o151352.ingest.sentry.io' ([Errno -2] Name or service not known)")': /api/4504800232407040/envelope/
+2024-05-05 14:52:37 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x14755e702850>: Failed to resolve 'o151352.ingest.sentry.io' ([Errno -2] Name or service not known)")': /api/4504800232407040/envelope/
+2024-05-05 14:52:37 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x14755e702f50>: Failed to resolve 'o151352.ingest.sentry.io' ([Errno -2] Name or service not known)")': /api/4504800232407040/envelope/
+2024-05-05 14:52:37 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x14755e710310>: Failed to resolve 'o151352.ingest.sentry.io' ([Errno -2] Name or service not known)")': /api/4504800232407040/envelope/
+2024-05-05 14:52:37 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x14755e710c50>: Failed to resolve 'o151352.ingest.sentry.io' ([Errno -2] Name or service not known)")': /api/4504800232407040/envelope/
+2024-05-05 14:52:37 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x14755e711550>: Failed to resolve 'o151352.ingest.sentry.io' ([Errno -2] Name or service not known)")': /api/4504800232407040/envelope/
+2024-05-05 16:13:37 INFO open for scan: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/run-z89x7xwn.wandb
+2024-05-05 16:13:38 INFO watching files in: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files
+2024-05-05 16:13:38 INFO run started: z89x7xwn with start time 1714935471.959958
+2024-05-05 16:13:38 INFO saving file wandb-metadata.json with policy now
+2024-05-05 16:13:38 WARNING Seen metric with glob (shouldn't happen)
+2024-05-05 16:13:38 INFO saving file wandb-summary.json with policy end
+2024-05-05 16:13:38 INFO handling exit code: 0
+2024-05-05 16:13:38 INFO handling runtime: 4014
+2024-05-05 16:13:38 INFO saving file wandb-summary.json with policy end
+2024-05-05 16:13:38 INFO send defer
+2024-05-05 16:13:38 INFO handle sender defer: 0
+2024-05-05 16:13:38 INFO send defer: 1
+2024-05-05 16:13:38 INFO handle sender defer: 1
+2024-05-05 16:13:38 INFO send defer: 2
+2024-05-05 16:13:38 INFO handle sender defer: 2
+2024-05-05 16:13:38 INFO send defer: 3
+2024-05-05 16:13:38 INFO handle sender defer: 3
+2024-05-05 16:13:38 INFO send defer: 4
+2024-05-05 16:13:38 INFO handle sender defer: 4
+2024-05-05 16:13:38 INFO send defer: 5
+2024-05-05 16:13:38 INFO handle sender defer: 5
+2024-05-05 16:13:38 INFO send defer: 6
+2024-05-05 16:13:38 INFO handle sender defer: 6
+2024-05-05 16:13:38 INFO send defer: 7
+2024-05-05 16:13:38 INFO handle sender defer: 7
+2024-05-05 16:13:38 INFO Uploaded file /tmp/tmpbzp9jfjswandb/uzis78zh-wandb-metadata.json
+2024-05-05 16:13:39 WARNING Terminal output too large. Logging without processing.
+2024-05-05 16:13:39 INFO file/dir modified: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files/wandb-summary.json
+2024-05-05 16:13:39 INFO file/dir modified: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files/config.yaml
+2024-05-05 16:13:39 INFO file/dir created: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files/output.log
+2024-05-05 16:13:40 INFO send defer: 8
+2024-05-05 16:13:40 INFO handle sender defer: 8
+2024-05-05 16:13:40 INFO Attempting to build job artifact
+2024-05-05 16:13:40 WARNING No requirements.txt found, not creating job artifact. See https://docs.wandb.ai/guides/launch/create-job
+2024-05-05 16:13:40 INFO send defer: 9
+2024-05-05 16:13:40 INFO handle sender defer: 9
+2024-05-05 16:13:40 INFO shutting down directory watcher
+2024-05-05 16:13:41 INFO file/dir modified: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files/output.log
+2024-05-05 16:13:41 INFO scan: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files
+2024-05-05 16:13:41 INFO scan save: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files/conda-environment.yaml conda-environment.yaml
+2024-05-05 16:13:41 INFO scan save: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files/wandb-metadata.json wandb-metadata.json
+2024-05-05 16:13:41 INFO scan save: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files/wandb-summary.json wandb-summary.json
+2024-05-05 16:13:41 INFO scan save: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files/config.yaml config.yaml
+2024-05-05 16:13:41 INFO scan save: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files/output.log output.log
+2024-05-05 16:13:41 INFO send defer: 10
+2024-05-05 16:13:41 INFO handle sender defer: 10
+2024-05-05 16:13:41 INFO shutting down file pusher
+2024-05-05 16:13:41 INFO shutting down sender
+2024-05-05 16:13:41 INFO shutting down file pusher
+2024-05-05 16:13:41 INFO waiting for file pusher
+2024-05-05 16:13:41 INFO Uploaded file /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files/conda-environment.yaml
+2024-05-05 16:13:41 INFO Uploaded file /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files/wandb-summary.json
+2024-05-05 16:13:41 INFO Uploaded file /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files/config.yaml
+2024-05-05 16:13:41 INFO Uploaded file /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_145749-z89x7xwn/files/output.log
+2024-05-05 16:13:42 INFO send defer: 11
+2024-05-05 16:13:42 INFO file stream finish called
+2024-05-05 16:13:42 INFO file stream finish is done
+2024-05-05 17:03:37 INFO open for scan: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/run-7o8m4z6q.wandb
+2024-05-05 17:03:37 INFO watching files in: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files
+2024-05-05 17:03:37 INFO run started: 7o8m4z6q with start time 1714940353.781883
+2024-05-05 17:03:37 INFO saving file wandb-metadata.json with policy now
+2024-05-05 17:03:37 WARNING Seen metric with glob (shouldn't happen)
+2024-05-05 17:03:37 INFO saving file wandb-summary.json with policy end
+2024-05-05 17:03:37 INFO handling exit code: 0
+2024-05-05 17:03:37 INFO handling runtime: 2084
+2024-05-05 17:03:37 INFO saving file wandb-summary.json with policy end
+2024-05-05 17:03:37 INFO send defer
+2024-05-05 17:03:37 INFO handle sender defer: 0
+2024-05-05 17:03:37 INFO send defer: 1
+2024-05-05 17:03:37 INFO handle sender defer: 1
+2024-05-05 17:03:37 INFO send defer: 2
+2024-05-05 17:03:37 INFO handle sender defer: 2
+2024-05-05 17:03:37 INFO send defer: 3
+2024-05-05 17:03:37 INFO handle sender defer: 3
+2024-05-05 17:03:37 INFO send defer: 4
+2024-05-05 17:03:37 INFO handle sender defer: 4
+2024-05-05 17:03:37 INFO send defer: 5
+2024-05-05 17:03:37 INFO handle sender defer: 5
+2024-05-05 17:03:37 INFO send defer: 6
+2024-05-05 17:03:37 INFO handle sender defer: 6
+2024-05-05 17:03:37 INFO send defer: 7
+2024-05-05 17:03:37 INFO handle sender defer: 7
+2024-05-05 17:03:37 INFO Uploaded file /tmp/tmp2ml73vmpwandb/zzwh6238-wandb-metadata.json
+2024-05-05 17:03:38 WARNING Terminal output too large. Logging without processing.
+2024-05-05 17:03:38 INFO file/dir modified: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files/config.yaml
+2024-05-05 17:03:38 INFO file/dir modified: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files/wandb-summary.json
+2024-05-05 17:03:38 INFO file/dir created: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files/output.log
+2024-05-05 17:03:39 INFO send defer: 8
+2024-05-05 17:03:39 INFO handle sender defer: 8
+2024-05-05 17:03:39 INFO Attempting to build job artifact
+2024-05-05 17:03:39 WARNING No requirements.txt found, not creating job artifact. See https://docs.wandb.ai/guides/launch/create-job
+2024-05-05 17:03:39 INFO send defer: 9
+2024-05-05 17:03:39 INFO handle sender defer: 9
+2024-05-05 17:03:39 INFO shutting down directory watcher
+2024-05-05 17:03:40 INFO file/dir modified: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files/output.log
+2024-05-05 17:03:40 INFO scan: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files
+2024-05-05 17:03:40 INFO scan save: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files/conda-environment.yaml conda-environment.yaml
+2024-05-05 17:03:40 INFO scan save: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files/wandb-metadata.json wandb-metadata.json
+2024-05-05 17:03:40 INFO scan save: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files/wandb-summary.json wandb-summary.json
+2024-05-05 17:03:40 INFO scan save: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files/config.yaml config.yaml
+2024-05-05 17:03:40 INFO scan save: /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files/output.log output.log
+2024-05-05 17:03:40 INFO send defer: 10
+2024-05-05 17:03:40 INFO handle sender defer: 10
+2024-05-05 17:03:40 INFO shutting down file pusher
+2024-05-05 17:03:40 INFO shutting down sender
+2024-05-05 17:03:40 INFO shutting down file pusher
+2024-05-05 17:03:40 INFO waiting for file pusher
+2024-05-05 17:03:40 INFO Uploaded file /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files/wandb-summary.json
+2024-05-05 17:03:40 INFO Uploaded file /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files/config.yaml
+2024-05-05 17:03:40 INFO Uploaded file /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files/output.log
+2024-05-05 17:03:40 INFO Uploaded file /scratch/network/pvegna/backwardsLM/wandb/offline-run-20240505_161913-7o8m4z6q/files/conda-environment.yaml
+2024-05-05 17:03:41 INFO send defer: 11
+2024-05-05 17:03:41 INFO file stream finish called
+2024-05-05 17:03:41 INFO file stream finish is done
