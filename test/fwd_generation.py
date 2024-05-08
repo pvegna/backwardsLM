@@ -3,9 +3,9 @@ from transformers import pipeline
 target = "Then you must leave by the next mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?"
 prompt = ""
 
-generator = pipeline("text-generation", model="/scratch/network/pvegna/models/gpt2", tokenizer="/scratch/network/pvegna/models/gpt2-tokenizer")
-
-with open('/scratch/network/pvegna/backwardsLM/output/fwd_base_generations.txt', 'w') as out_file:
+#generator = pipeline("text-generation", model="/scratch/network/pvegna/models/gpt2", tokenizer="/scratch/network/pvegna/models/gpt2-tokenizer")
+generator = pipeline("text-generation", model="/scratch/network/pvegna/models/gpt2-forwards/corpus15", tokenizer="/scratch/network/pvegna/models/gpt2-tokenizer")
+with open('/scratch/network/pvegna/backwardsLM/output/c15_fwd_generations.txt', 'w') as out_file:
     for i in range(10):
         target = target.strip()
         prompt += ' ' + target[:target.index(' ')]
