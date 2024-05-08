@@ -2,7 +2,7 @@ import datasets, json
 from torch import cuda
 from evaluate import load
 device = 'cuda' if cuda.is_available() else 'cpu'
-model_name = "gpt2-backwards/corpus15"
+model_name = "gpt2-forwards/corpus15"
 
 predictions = []
 references = []
@@ -12,7 +12,7 @@ with open(f"/scratch/network/pvegna/backwardsLM/output/{model_name}.json", "r") 
 
 for ex in data:
     ex = json.loads(ex)
-    predictions.append(ex['pred'])
+    predictions.append(ex['pred'][len(ex['ref']):])
     references.append(ex['ref'])
 
 bertscore = datasets.load_metric("/scratch/network/pvegna/backwardsLM/metrics/bertscore.py")
