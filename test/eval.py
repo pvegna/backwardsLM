@@ -12,12 +12,17 @@ with open(f"/scratch/network/pvegna/backwardsLM/output/{model_name}.json", "r") 
 
 for ex in data:
     ex = json.loads(ex)
-    if len(ex['pred'][len(ex['prompt']):]) >= 1 and len(ex['ref']) >= 1:
+    pred = ex['pred'][len(ex['prompt']):]
+    ref = ex['ref']
+    if len(pred) >= 1 and len(ref) >= 1:
+        length = min(len(pred), len(ref))
+        pred = pred[:length]
+        ref = ref[:length]
         print('---------------')
-        print('pred:' + ex['pred'][len(ex['prompt']):])
-        print('ref: ' + ex['ref'])
-        predictions.append(ex['pred'][len(ex['prompt']):])
-        references.append(ex['ref'])
+        print('pred:' + pred)
+        print('ref: ' + ref)
+        predictions.append(pred)
+        references.append(ref)
 
 bertscore = datasets.load_metric("/scratch/network/pvegna/backwardsLM/metrics/bertscore.py")
 ppl = load("/scratch/network/pvegna/backwardsLM/metrics/perplexity.py")
