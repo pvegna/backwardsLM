@@ -1,0 +1,81 @@
+
+
+------------------------------------
+
+prompt:  Then
+
+raw target:  you must leave by the next mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then the captain was ready. He took the letter in his hand, and turned away. There was silence for a few moments. Then the officer returned. His eye glowed and changed. Was his face something like that of a man who has taken
+
+------------------------------------
+
+prompt:  Then you
+
+raw target:  must leave by the next mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you are in the same boat, and you have no one to look at. Then your attention is distracted, and you suffer from agitation, but the one person who can stop the agitation is you, and you will know who is at fault.
+
+------------------------------------
+
+prompt:  Then you must
+
+raw target:  leave by the next mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must be weary, I mustn’t go on with my work, and you mustn’t even bother about the ladies. That’s all; that’s a very good thing indeed. You’
+
+------------------------------------
+
+prompt:  Then you must leave
+
+raw target:  by the next mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave the room. You must leave behind the clothes. You must leave the dressing-case. There must be at least one of the three. Let this be the second dressing-case, to make it easy and quick to arrive at
+
+------------------------------------
+
+prompt:  Then you must leave by
+
+raw target:  the next mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave by a short train instead of back to London." He looked at me with a frown. "You shall have to return. Tell me, and I will tell you." After a pause the door was opened, which gave Sir Joseph
+
+------------------------------------
+
+prompt:  Then you must leave by the
+
+raw target:  next mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave by the station, and I should have done it in half an hour. I took up the railings and got out. The place had been dug in as before, and the sand promoting with it a deep watery basin was
+
+------------------------------------
+
+prompt:  Then you must leave by the next
+
+raw target:  mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave by the next day, and stay in London. This time the time of your escape has come. The _Chancellor_ has warned you, and you accordingly make a perilous trip. After you take it and walk away, take
+
+------------------------------------
+
+prompt:  Then you must leave by the next mail-steamer,
+
+raw target:  if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave by the next mail-steamer, which means that you will have to put some delay between the arrival of your first and last letter. If all goes well with your new vessel, you may arrange that you will sail on her
+
+------------------------------------
+
+prompt:  Then you must leave by the next mail-steamer, if
+
+raw target:  you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave by the next mail-steamer, if you think you can afford it. You have now got a nice letter addressed to London, and a parcel addressed to your parents in the street. It gives you thirty pounds of your mother
+
+------------------------------------
+
+prompt:  Then you must leave by the next mail-steamer, if you
+
+raw target:  have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave by the next mail-steamer, if you have not already got up for it, and will come back the old fashioned way.” He went back quickly to the book-case, with a little help from Herbert,

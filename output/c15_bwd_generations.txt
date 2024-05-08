@@ -1,0 +1,121 @@
+
+
+------------------------------------
+
+prompt:  .niaga
+
+raw target:  mih evael reven dluohs I ,derewsna I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga gnidleH eht gnigdol eht hguorht pu gnihton rof yltcaxe gnihcaorppa dna,flesreh ot gnimoolb dna,yt
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: ty,and blooming to herself,and approaching exactly for nothing up through the lodging the Helding again. 
+
+------------------------------------
+
+prompt:  .niaga mih
+
+raw target:  evael reven dluohs I ,derewsna I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih ot kcab emac ohw srettel eht dna,tuo meht retteb ni meht evorp ton did LoriP ni srettel eht rehtegot taerg a
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: a great together the letters in PiroL did not prove them in better them out,and the letters who came back to him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael
+
+raw target:  reven dluohs I ,derewsna I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael ot kcab fo elbuort erew ew taht dna,niaga erew sredro eht ta noitnetta elbatimro fo nekops yb,
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: ,by spoken of ormitable attention at the orders were again,and that we were trouble of back to leave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven
+
+raw target:  dluohs I ,derewsna I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael reven uoy dleh rehsiF.srM,ytud-ot fo tcejbus eht ni egaruocca nA.esaelp lla ta deksa
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: asked at all please.An accourage in the subject of to-duty,Mrs.Fisher held you never leave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven dluohs
+
+raw target:  I ,derewsna I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael reven dluohs ylesolc emoc ton dluow ehS.stcejbus dna mra sih fo tuo yltcaxe yrev em dnuof I.
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: .I found me very exactly out of his arm and subjects.She would not come closely should never leave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven dluohs I
+
+raw target:  ,derewsna I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael reven dluohs I.ti fo eno tsrif eht yb dednecsed evah I.ylsuoirav,uoy nopu detnuom ehs erof
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: fore she mounted upon you,variously.I have descended by the first one of it.I should never leave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven dluohs I ,derewsna
+
+raw target:  I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael reven dluohs I ,derewsna yletelpmoc si ereht fi,yticrap reh ta deklat eh nehW.mih fo tuo em ded
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: ded me out of him.When he talked at her parcity,if there is completely answered, I should never leave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven dluohs I ,derewsna I
+
+raw target:  ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael reven dluohs I ,derewsna I.esoprup ym otni mih evael stser eh dluow taht gnineve eht ot em fo ssen
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: ness of me to the evening that would he rests leave him into my purpose.I answered, I should never leave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven dluohs I ,derewsna I ,traeh
+
+raw target:  nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael reven dluohs I ,derewsna I ,traeh ylidaets yldrah I ;tuo emaceb kcaps yppah saw ecnatsid eht,
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: ,the distance was happy spack became out; I hardly steadily heart, I answered, I should never leave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven dluohs I ,derewsna I ,traeh nwo
+
+raw target:  ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael reven dluohs I ,derewsna I ,traeh nwo reh hpesoJ roop rieht dna rehtom dah I.tnemom a ecnah
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: hance a moment.I had mother and their poor Joseph her own heart, I answered, I should never leave him again. 
