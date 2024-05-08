@@ -15,8 +15,6 @@ for ex in data:
     predictions.append(ex['pred'])
     references.append(ex['ref'])
 
-print(references)
-
 bertscore = datasets.load_metric("/scratch/network/pvegna/backwardsLM/metrics/bertscore.py")
 ppl = load("/scratch/network/pvegna/backwardsLM/metrics/perplexity.py")
 #ppl = datasets.load_metric("perplexity")
