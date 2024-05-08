@@ -27,10 +27,10 @@ with open(f"/scratch/network/pvegna/backwardsLM/output/dual.json", "w") as out_f
         split = int(0.5 * len(text))
         fwd_prompt = text[:split]
         fwd_ref = text[split:]
-        bwd_prompt = text[split:][::-1]
-        bwd_ref = text[:split][::-1]
+        bwd_prompt = text[-split:][::-1]
+        bwd_ref = text[:-split][::-1]
         bwd_pred = back_gen(bwd_prompt)[0]['generated_text']
         fwd_pred = front_gen(bwd_prompt)[0]['generated_text']
         out_file.write(json.dumps({'fwd_prompt': fwd_prompt, 'fwd_ref': fwd_ref, 'fwd_pred': fwd_pred,
-                                   'bwd_prompt': fwd_prompt, 'bwd_ref': fwd_ref, 'bwd_pred': fwd_pred}) + '\n')
+                                   'bwd_prompt': bwd_prompt, 'bwd_ref': bwd_ref, 'bwd_pred': bwd_pred}) + '\n')
         print(i)
