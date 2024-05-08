@@ -1,0 +1,133 @@
+
+
+------------------------------------
+
+prompt:  .niaga
+
+raw target:  mih evael reven dluohs I ,derewsna I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga.com and www.nikolabla.com; or call (812) 224.3367.3946.
+
+The video will automatically expand.
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: .dnapxe yllacitamotua lliw oediv ehT
+
+.6493.7633.422 )218( llac ro ;moc.albalokin.www dna moc.again. 
+
+------------------------------------
+
+prompt:  .niaga mih
+
+raw target:  evael reven dluohs I ,derewsna I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mihai kamiko uyukon kunju to kakotai tahio nakashou to jokuro shien, atsukuro no tsugamochi (don't be afraid
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: diarfa eb t'nod( ihcomagust on orukusta ,neihs orukoj ot uohsakan oihat iatokak ot ujnuk nokuyu okimak iahim again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael
+
+raw target:  reven dluohs I ,derewsna I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evaelh.de hir erh.de sion ait uit den lebe.de hir vihn hir van nek van.de hir vihn hir kru.
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: .urk rih nhiv rih ed.nav ken nav rih nhiv rih ed.ebel ned tiu tia nois ed.hre rih ed.hleave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven
+
+raw target:  dluohs I ,derewsna I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael revenir
+
+2) (please follow on this message: http://arstechnica.com/news/2014-10-19/why-will-i-cant-read-this-
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: -siht-daer-tnac-i-lliw-yhw/91-01-4102/swen/moc.acinhcetsra//:ptth :egassem siht no wollof esaelp( )2
+
+rinever leave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven dluohs
+
+raw target:  I ,derewsna I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael reven dluohs nyf thynl dzol nynl lvynk nyaal
+
+6. Niel oth siym stlak oth lor n
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: n rol hto kalts myis hto leiN .6
+
+laayn knyvl lnyn lozd lnyht fyn should never leave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven dluohs I
+
+raw target:  ,derewsna I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael reven dluohs I am the one who speaks! I see you are the first who speaks! I see you are the first who speak... I see you are the first who speak! I can hear you
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: uoy raeh nac I !kaeps ohw tsrif eht era uoy ees I ...kaeps ohw tsrif eht era uoy ees I !skaeps ohw tsrif eht era uoy ees I !skaeps ohw eno eht ma I should never leave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven dluohs I ,derewsna
+
+raw target:  I ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael reven dluohs I ,derewsna iai, tas iaiai, ei elh eik vin,sodar niel, eik vin oi
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: io niv kie ,lein rados,niv kie hle ie ,iaiai sat ,iai answered, I should never leave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven dluohs I ,derewsna I
+
+raw target:  ,traeh nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael reven dluohs I ,derewsna I lwaine I lweirnal gegarne V viiyni iaiii-laa. dine oggnaz
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: zanggo enid .aal-iiiai inyiiv V enrageg lanriewl I eniawl I answered, I should never leave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven dluohs I ,derewsna I ,traeh
+
+raw target:  nwo ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael reven dluohs I ,derewsna I ,traehra I hir friech deha geglech geglech geglech geglech gegle
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: elgeg hcelgeg hcelgeg hcelgeg hcelgeg ahed hceirf rih I arheart, I answered, I should never leave him again. 
+
+------------------------------------
+
+prompt:  .niaga mih evael reven dluohs I ,derewsna I ,traeh nwo
+
+raw target:  ym detlusnoc ylno I fI
+
+raw generation:  .niaga mih evael reven dluohs I ,derewsna I ,traeh nwo mih urnelu.luh nro uf ein.niaga eluohs I dolt n
+
+forwards target: If I only consulted my own heart, I answered, I should never leave him again. 
+
+forwards generation: n tlod I shoule again.nie fu orn hul.ulenru him own heart, I answered, I should never leave him again. 

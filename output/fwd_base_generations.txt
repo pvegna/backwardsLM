@@ -1,0 +1,100 @@
+
+
+------------------------------------
+
+prompt:  Then
+
+raw target:  you must leave by the next mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then they'll start to make their living out of it, but they really only spend as much as five to 10 times more.
+
+The other thing that's really interesting about the U.K. is that, the last five decades, there
+
+------------------------------------
+
+prompt:  Then you
+
+raw target:  must leave by the next mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you can make a big batch of pasta and save it for the weekend. I love taking salads and they're the kind of pasta that's so easy to make, you really don't have to worry about making more when cutting. So if you
+
+------------------------------------
+
+prompt:  Then you must
+
+raw target:  leave by the next mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must show me the way." If you have found yourself unable to get a piece of the puzzle right, find a way to solve it within the context of your own life and to give your friend the help they need in getting you there.
+
+------------------------------------
+
+prompt:  Then you must leave
+
+raw target:  by the next mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave out the top portion of the second. The outer portion needs to be covered with paper towel, otherwise, it's more expensive than paper!
+
+Then the top portion of the second is sealed. So you don't really need
+
+------------------------------------
+
+prompt:  Then you must leave by
+
+raw target:  the next mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave by 21:52
+
+Bobby Erskine was the second person to get the message. "You can only go on a date when you're under contract to the person you're dating," Erskine said
+
+------------------------------------
+
+prompt:  Then you must leave by the
+
+raw target:  next mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave by the end of the day if you want to get to that part of North Carolina. We've got a lot of good state parks that are over there. So as soon as you leave you are ready to walk and you want
+
+------------------------------------
+
+prompt:  Then you must leave by the next
+
+raw target:  mail-steamer, if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave by the next morning and go to bed." The boy sighed. "I know about you." She smiled back. "But you think what I'm saying isn't enough?"
+
+Harry sat at his desk, and did his
+
+------------------------------------
+
+prompt:  Then you must leave by the next mail-steamer,
+
+raw target:  if you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave by the next mail-steamer, so I would assume the exact same procedure applies to most destinations.
+
+
+I took home a box of paper with this message:
+
+
+Serve as a hand mixer
+
+
+I added
+
+------------------------------------
+
+prompt:  Then you must leave by the next mail-steamer, if
+
+raw target:  you have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave by the next mail-steamer, if you will be using your vehicle, the nearest one you might have. The letter then has to be dated from the earliest day that the vehicle appears on the letter's date sheet. For
+
+------------------------------------
+
+prompt:  Then you must leave by the next mail-steamer, if you
+
+raw target:  have any money to pay your passage, or, if you have no money, you must go to work on the roads. Have you any money?
+
+raw generation:  Then you must leave by the next mail-steamer, if you are not sure of what to do, you simply walk through the waiting line and back to the main machine.
+
+You can keep checking in until you arrive at the designated terminal
