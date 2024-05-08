@@ -1,1 +1,1 @@
-{"model": "gpt2-backwards/corpus15", "bert_precision": 0.8106849043287783, "bert_recall": 0.8281376423707666, "bert_f1": 0.8186601827214489, "perplexity": 18.131580424105}
+{"model": "gpt2-backwards/corpus15", "bert_precision": 0.8438203068079384, "bert_recall": 0.8358229176210688, "bert_f1": 0.8317977994935125, "perplexity": 1604715760.6481462}
