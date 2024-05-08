@@ -13,6 +13,9 @@ with open(f"/scratch/network/pvegna/backwardsLM/output/{model_name}.json", "r") 
 for ex in data:
     ex = json.loads(ex)
     if len(ex['pred'][len(ex['prompt']):]) >= 1 and len(ex['ref']) >= 1:
+        print('---------------')
+        print('pred:' + ex['pred'][len(ex['prompt']):])
+        print('ref: ' + ex['ref'])
         predictions.append(ex['pred'][len(ex['prompt']):])
         references.append(ex['ref'])
 
